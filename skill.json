@@ -1,0 +1,28 @@
+{
+  "name": "youtube-briefing",
+  "version": "1.0.0",
+  "description": "AI 播客周报生成器 — 追踪 YC/20VC/Lenny's Podcast 等顶级科技播客，自动生成结构化简报",
+  "author": "galengao-clawly",
+  "license": "MIT",
+  "openclaw": {
+    "emoji": "🎙️",
+    "category": "content",
+    "status": "stable",
+    "triggers": [
+      "跑 YouTube 简报",
+      "YouTube briefing",
+      "播客周报",
+      "podcast briefing"
+    ],
+    "tags": ["youtube", "podcast", "newsletter", "content", "ai"]
+  },
+  "channels": {
+    "default": [
+      "Y Combinator",
+      "20VC with Harry Stebbings",
+      "Lenny's Podcast",
+      "The Peel with Turner Novak",
+      "BG2Pod with Brad Gerstner and Bill Gurley"
+    ]
+  }
+}

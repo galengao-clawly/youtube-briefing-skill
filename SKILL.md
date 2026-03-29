@@ -34,6 +34,7 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 - 纳入 BG2Pod with Brad Gerstner and Bill Gurley
 - 纳入 moonshots 播放列表：https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU
 - 纳入 a16z 频道：https://www.youtube.com/@a16z
+- 纳入 Joe Lonsdale 频道：https://www.youtube.com/@Joe_Lonsdale
 
 ## 排名与排序
 - 先按“话题相关度”筛选与排序。

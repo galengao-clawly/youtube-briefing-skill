@@ -38,6 +38,28 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 - 纳入 moonshots 播放列表：https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU
 - 纳入 a16z 频道：https://www.youtube.com/@a16z
 - 纳入 Joe Lonsdale 频道：https://www.youtube.com/@Joe_Lonsdale
+- 纳入 Subversive：https://www.youtube.com/@SubversivePodcast
+- 纳入 Y Combinator：https://www.youtube.com/@ycombinator
+- 纳入 Peter Yang：https://www.youtube.com/@peteryangyt
+- 纳入 Lenny's Podcast：https://www.youtube.com/@lennyspodcast
+- 纳入 Sequoia Training Data：https://youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
+- 纳入 Long Strange Trip：https://www.youtube.com/playlist?list=PLOhHNjZItNnNu8wknSuVtcSJRs7Q4xqOE
+- 纳入 Sub Club Podcast：https://www.youtube.com/@SubClubPodcast
+- 纳入 Redpoint Unsupervised Learning：https://www.youtube.com/@RedpointAI
+- 纳入 The Logan Bartlett Show：https://www.youtube.com/@theloganbartlettshow
+- 纳入 Redpoint Vital Signs：https://vital-signs-e526bbac.simplecast.com
+- 纳入 First Round In Depth：https://review.firstround.com/podcast
+- 纳入 First Round Capital：https://www.youtube.com/@FirstRoundCapital
+- 纳入 Bessemer This Is Series A：https://www.bvp.com/atlas/this-is-series-a
+- 纳入 Bessemer Cloud Giants：https://www.bvp.com/cloudgiants
+- 纳入 Bessemer Wish I Knew：https://www.youtube.com/@BessemerVenturePartners
+- 纳入 Bessemer Heart of Healthcare：https://www.bvp.com/heart-of-healthcare
+- 纳入 Bessemer A Healthy Dose：https://www.bvp.com/atlas/a-healthy-dose
+- 纳入 Greylock Greymatter：https://greylock.com/greymatter/
+- 纳入 Kleiner Perkins Grit：https://www.kleinerperkins.com/category/media/grit/
+- 纳入 Lightspeed Generative Now：https://linktr.ee/generativenow
+- 纳入 NFX Podcast：https://podcast.nfx.com/
+- 纳入 Accel Spotlight On：https://www.accel.com/spotlight-on
 
 ## 排名与排序
 - 先按“话题相关度”筛选与排序。

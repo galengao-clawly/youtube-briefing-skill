@@ -40,7 +40,7 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 - 避免纯 benchmark / evals 深挖。
 - 只纳入 AI 相关公司/话题。
 - 20VC 仅收录单个嘉宾对谈，排除多嘉宾拼盘节目。
-- 正式榜单默认只能从下方频道池/source 池中选取。若外部搜索发现高质量候选但 source 不在池中，不得直接进入一周榜或三周榜；只能单独列为“待确认新增 source 的候选”，等用户明确确认加入后再进入正式榜单。
+- 正式榜单优先从下方频道池/source 池中选取。若外部搜索发现高质量候选但 source 不在池中，可以作为“新发现 source”破例进入榜单，但必须明确标注发现路径、source 名称和破例入选理由；用户确认后再加入 source 池。
 
 ## 频道池补充
 - 纳入 The Peel with Turner Novak
@@ -70,6 +70,7 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 - 纳入 Lightspeed Generative Now：https://linktr.ee/generativenow
 - 纳入 NFX Podcast：https://podcast.nfx.com/
 - 纳入 Accel Spotlight On：https://www.accel.com/spotlight-on
+- 纳入 Exposure Ninja：https://www.youtube.com/@ExposureNinja
 
 ## 排名与排序
 - 先按“话题相关度”筛选与排序。

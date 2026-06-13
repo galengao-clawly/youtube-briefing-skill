@@ -26,6 +26,12 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 2) AI 产品/设计/增长/运营实操
 3) Agent / SaaS 争议话题
 
+## 加权上调规则
+- 单一公司 founder/CEO/核心高管深访优先于宏观圆桌、新闻串烧或泛趋势评论，尤其是围绕一家公司、一个产品、一个新类别展开的对谈。
+- 如果被访公司近期完成新一轮融资、估值跃迁、重大产品发布、收入/用户增长拐点，或成为新兴 AI 类别代表，应显著上调排序。
+- 对 AI infra / agent infra / search for agents / vertical AI 这类新类别，如果同时满足“创始人对谈 + 公司近期融资或快速增长”，应优先进入三周榜，并可进入一周榜。
+- 示例：Exa CEO Will Bryk 这类围绕单一 AI search/agent infra 公司展开的 founder 对谈，应高于普通宏观评论，因为它同时具备公司样本、类别判断和融资/市场信号。
+
 ## 过滤规则
 - 排除 Shorts。
 - 避免纯 benchmark / evals 深挖。

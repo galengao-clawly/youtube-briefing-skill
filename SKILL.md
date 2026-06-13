@@ -31,6 +31,7 @@ description: 生成 YouTube 播客完整简报（默认一周榜+三周榜）并
 - 如果被访公司近期完成新一轮融资、估值跃迁、重大产品发布、收入/用户增长拐点，或成为新兴 AI 类别代表，应显著上调排序。
 - 对 AI infra / agent infra / search for agents / vertical AI 这类新类别，如果同时满足“创始人对谈 + 公司近期融资或快速增长”，应优先进入三周榜，并可进入一周榜。
 - 示例：Exa CEO Will Bryk 这类围绕单一 AI search/agent infra 公司展开的 founder 对谈，应高于普通宏观评论，因为它同时具备公司样本、类别判断和融资/市场信号。
+- 公司知名度、嘉宾可信度、频道/source 信号强度也要进入排序。若公司不够知名，不能仅凭夸张 ARR/用户数压过 Lenny's Podcast、a16z、YC、First Round 等强信号源中的高质量嘉宾/框架型内容。
 - 三周榜更偏“长期可复用判断”：能帮助形成 AI 时代商业模式、产品 taste、组织方式、价值分配、distribution moat 等框架的内容，应优先于短期新闻热度、政策事件或纯宏观圆桌。
 - 示例：Benedict Evans 这类 AI 价值分配/平台周期判断、Tony Fadell 这类产品 taste 与 judgment 讨论、YC AI-native services 这类商业模式 playbook，应在三周榜中显著上调。
 
